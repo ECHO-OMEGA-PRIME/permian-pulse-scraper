@@ -1,0 +1,12 @@
+{
+  "competitor": "Revive Environmental Solutions",
+  "url": "https://revive-es.com",
+  "scraped_at": "2026-03-17",
+  "products": [],
+  "chemical_categories": [],
+  "msds_links": [],
+  "pricing": [],
+  "technologies": [],
+  "notes": "SITE NOT SCRAPABLE — Wix-based website. WebFetch returns only Wix framework/boilerplate JavaScript (Thunderbolt renderer v1.17008.0). No product content visible in HTML source. Would require JavaScript rendering (ShadowGlass/Playwright) to extract actual content. Skip for now.",
+  "raw_content": "Wix-based website. Only boilerplate JS/CSS extracted. No product content accessible via static fetch."
+}

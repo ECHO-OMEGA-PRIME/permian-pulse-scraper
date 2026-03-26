@@ -1,0 +1,53 @@
+{
+  "competitor": "Interface Treating Solutions",
+  "url": "https://www.interfacetreating.com",
+  "scraped_at": "2026-03-17",
+  "products": [
+    {"name": "Corrosion Inhibitors", "category": "corrosion_inhibitor", "description": "Corrosion prevention chemicals sourced globally"},
+    {"name": "Scale Inhibitors", "category": "scale_inhibitor", "description": "Mineral scale prevention chemicals"},
+    {"name": "Paraffin Chemicals", "category": "paraffin_control", "description": "Paraffin management chemicals"},
+    {"name": "Scavengers", "category": "h2s_scavenger", "description": "H2S and other scavenger chemicals"},
+    {"name": "SWD Chemistries", "category": "water_treatment", "description": "Saltwater disposal facility treatment chemicals"},
+    {"name": "Wetting Agents", "category": "surfactant", "description": "Surface wetting agent chemicals"},
+    {"name": "Biocides", "category": "biocide", "description": "Microbiological control chemicals"},
+    {"name": "Packer Fluid", "category": "packer_fluid", "description": "Packer fluid formulations"},
+    {"name": "Acids", "category": "acid", "description": "Acidizing chemicals"},
+    {"name": "Commodity Solvents", "category": "solvent", "description": "Commodity solvent products"}
+  ],
+  "chemical_categories": [
+    "corrosion_inhibitor",
+    "scale_inhibitor",
+    "paraffin_control",
+    "h2s_scavenger",
+    "water_treatment",
+    "surfactant",
+    "biocide",
+    "packer_fluid",
+    "acid",
+    "solvent"
+  ],
+  "services": [
+    {
+      "name": "Lab Capabilities",
+      "description": "Recreate the problem to get full picture of your well to solve flow issues. Data-driven insights."
+    },
+    {
+      "name": "Modeling",
+      "description": "Root cause failure analysis, corrosion and scale modeling, paraffin analysis"
+    },
+    {
+      "name": "Field Services",
+      "description": "Pressure pumping to chemical waste removal, well and job site efficiency and compliance"
+    }
+  ],
+  "msds_links": [],
+  "pricing": [],
+  "technologies": [
+    "Root cause failure analysis",
+    "Corrosion and scale modeling",
+    "Paraffin analysis",
+    "Global sourcing network"
+  ],
+  "notes": "Positions as custom solutions provider rather than catalog seller. Sources products globally. Strong emphasis on lab capabilities, modeling, and field services. Offers root cause failure analysis and corrosion/scale modeling as differentiators. Full range of standard oilfield production chemicals.",
+  "raw_content": "Interface Treating Solutions - Products: Corrosion Inhibitors, Scale Inhibitors, Paraffin, Scavengers, SWD Chemistries, Wetting Agents, Biocides, Packer Fluid, Acids, Commodity Solvents. Services: Lab Capabilities (recreate problems, data-driven insights), Modeling (root cause failure analysis, corrosion/scale modeling, paraffin analysis), Field Services (pressure pumping to chemical waste removal). Sources products globally. Superior chemistry, creative solutions."
+}

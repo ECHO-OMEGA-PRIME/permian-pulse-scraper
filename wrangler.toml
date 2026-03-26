@@ -1,0 +1,31 @@
+name = "permian-pulse-scraper"
+main = "src/index.ts"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+[triggers]
+crons = ["0 */6 * * *"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "permian-pulse-scraper"
+database_id = "4a2c1d02-c377-4e70-b8f8-aec879f77ebb"
+
+[[kv_namespaces]]
+binding = "CACHE"
+id = "5b38f213821f43358ee0eb988c2b1118"
+
+[[services]]
+binding = "SHARED_BRAIN"
+service = "echo-shared-brain"
+
+[[services]]
+binding = "ENGINE_RUNTIME"
+service = "echo-engine-runtime"
+
+[[services]]
+binding = "KNOWLEDGE_FORGE"
+service = "echo-knowledge-forge"
+
+[vars]
+WORKER_VERSION = "2.0.0"

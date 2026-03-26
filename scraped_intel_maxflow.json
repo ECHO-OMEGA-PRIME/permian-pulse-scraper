@@ -1,0 +1,22 @@
+{
+  "competitor": "Maxflow Chemicals of Texas",
+  "url": "https://www.maxflowchemicals.com",
+  "scraped_at": "2026-03-17",
+  "products": [
+    {"name": "Scale Control Treatments", "category": "scale_inhibitor", "description": "Scale control catered to specific SWD/production needs"},
+    {"name": "Corrosion Control Treatments", "category": "corrosion_inhibitor", "description": "Corrosion control catered to specific SWD/production needs"},
+    {"name": "SWD Water Treatment", "category": "water_treatment", "description": "Saltwater disposal facility treatments"},
+    {"name": "Production Facility Treatments", "category": "production_chemicals", "description": "Advanced production facility chemical treatments"}
+  ],
+  "chemical_categories": [
+    "scale_inhibitor",
+    "corrosion_inhibitor",
+    "water_treatment",
+    "production_chemicals"
+  ],
+  "msds_links": [],
+  "pricing": [],
+  "technologies": [],
+  "notes": "Minimal web presence. Focuses on SWD and production facility treatments with customized scale and corrosion control. Appears to be a smaller, local operator. Elementor-based website with limited product detail.",
+  "raw_content": "Maxflow Chemicals of Texas - Advanced saltwater disposal and production facility treatments. Scale and corrosion control catered to specific needs."
+}

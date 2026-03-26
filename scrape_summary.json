@@ -1,0 +1,252 @@
+{
+  "scrape_summary": {
+    "date": "2026-03-17",
+    "total_competitors_targeted": 15,
+    "total_competitors_scraped": 13,
+    "total_competitors_no_data": 2,
+    "total_products_cataloged": 226,
+    "total_chemical_categories_found": 38,
+    "scrape_method": "WebFetch (static HTML extraction)",
+    "notes": "2 sites returned no useful data (Aquarius=launching soon, Revive ES=Wix JS-rendered only). ShadowGlass was offline so Playwright/JS rendering was not available for Wix sites."
+  },
+  "competitors_ranked_by_intel_value": [
+    {
+      "rank": 1,
+      "name": "Jacam Catalyst (JCAN)",
+      "url": "https://jacamcatalyst.com",
+      "intel_score": 95,
+      "products_found": 65,
+      "categories": 33,
+      "location": "Gardendale, TX",
+      "threat_level": "HIGH",
+      "key_differentiators": ["System Saver Pellets (solid chemistry)", "Smart Balls", "15 EPA-registered biocides", "Dual Core Flood Rig lab", "GoM deepwater capability", "All-in-one acid stimulation"],
+      "file": "scraped_intel_jacam_catalyst.json"
+    },
+    {
+      "rank": 2,
+      "name": "ChampionX (SLB)",
+      "url": "https://championx.com",
+      "intel_score": 85,
+      "products_found": 22,
+      "categories": 12,
+      "location": "The Woodlands, TX",
+      "threat_level": "HIGH",
+      "key_differentiators": ["SLB acquisition", "6600+ employees", "Artificial lift + digital + emissions", "XSPOC/LOOKOUT optimization", "SOOFIE emissions monitoring", "Full ecosystem play"],
+      "file": "scraped_intel_championx.json"
+    },
+    {
+      "rank": 3,
+      "name": "Imperative Chemical Partners",
+      "url": "https://www.imperativechemicals.com",
+      "intel_score": 82,
+      "products_found": 37,
+      "categories": 15,
+      "location": "Unknown",
+      "threat_level": "HIGH",
+      "key_differentiators": ["OPTIS IOR Technology (84% well boost)", "Extensive H2S scavenger variants", "Triple Combination treatments", "LuminUltra ATP testing", "Non-formaldehyde options"],
+      "file": "scraped_intel_imperative_chemicals.json"
+    },
+    {
+      "rank": 4,
+      "name": "Coastal Chemical (Brenntag)",
+      "url": "https://coastalchem.com",
+      "intel_score": 80,
+      "products_found": 31,
+      "categories": 16,
+      "location": "Houston, TX",
+      "threat_level": "MEDIUM-HIGH",
+      "key_differentiators": ["Brenntag parent (global distribution)", "N-SPEC Pipeline Services", "Heat transfer fluids (4 brands)", "Quantum Certification", "Processing + production + pipeline"],
+      "file": "scraped_intel_coastal_chemical.json"
+    },
+    {
+      "rank": 5,
+      "name": "Solnexus Chemical",
+      "url": "https://solnexuschemical.com",
+      "intel_score": 78,
+      "products_found": 41,
+      "categories": 16,
+      "location": "Midland, TX",
+      "threat_level": "HIGH",
+      "key_differentiators": ["Midland TX based (direct Permian competitor)", "6 named EPA-registered biocides with specific actives", "Proprietary SNX-FLB surfactant", "HCL7000 WL modified acid", "Toll blending & co-packing", "Bulk commodity wholesale", "Cloud-based analytics"],
+      "file": "scraped_intel_solnexus.json"
+    },
+    {
+      "rank": 6,
+      "name": "EnergyFlo Chemical",
+      "url": "https://energyflochemical.com",
+      "intel_score": 72,
+      "products_found": 27,
+      "categories": 19,
+      "location": "Magnolia, TX",
+      "threat_level": "MEDIUM",
+      "key_differentiators": ["Complete frac package delivery", "Dry Nano Surfactants", "Telemetry-equipped ISO containers", "Gulf Coast + Eagle Ford focus"],
+      "file": "scraped_intel_energyflo.json"
+    },
+    {
+      "rank": 7,
+      "name": "Specialty Intermediates",
+      "url": "https://specialtyintermediates.com",
+      "intel_score": 70,
+      "products_found": 10,
+      "categories": 9,
+      "location": "Oklahoma City, OK",
+      "threat_level": "MEDIUM",
+      "key_differentiators": ["Largest intermediate portfolio in industry (claims)", "Three-tier model (intermediates, concentrates, finished)", "Private label packaging", "Founded 1993", "Upstream raw material supplier"],
+      "file": "scraped_intel_specialty_intermediates.json"
+    },
+    {
+      "rank": 8,
+      "name": "Infinity Energy Solutions",
+      "url": "https://www.infinitysol.net",
+      "intel_score": 68,
+      "products_found": 14,
+      "categories": 14,
+      "location": "Louisiana",
+      "threat_level": "LOW-MEDIUM",
+      "key_differentiators": ["Detailed lab services (8 test types)", "Published rush pricing (50%/100% markup)", "Self-sources guar", "FTIR + NACE 0173 testing", "Toll blending"],
+      "file": "scraped_intel_infinity_solutions.json"
+    },
+    {
+      "rank": 9,
+      "name": "Interface Treating Solutions",
+      "url": "https://www.interfacetreating.com",
+      "intel_score": 65,
+      "products_found": 10,
+      "categories": 10,
+      "location": "Unknown",
+      "threat_level": "LOW-MEDIUM",
+      "key_differentiators": ["Root cause failure analysis", "Corrosion/scale modeling", "Global sourcing network", "Custom solutions approach", "Pressure pumping to waste removal"],
+      "file": "scraped_intel_interface_treating.json"
+    },
+    {
+      "rank": 10,
+      "name": "Solugen",
+      "url": "https://solugen.com",
+      "intel_score": 60,
+      "products_found": 8,
+      "categories": 8,
+      "location": "Houston, TX",
+      "threat_level": "LOW (disruptive potential)",
+      "key_differentiators": ["Bioforge biomanufacturing platform", "Engineered enzymes + AI optimization", ">95% yields", "Green chemistry approach", "Multi-market (O&G, agriculture, aerospace, etc.)"],
+      "file": "scraped_intel_solugen.json"
+    },
+    {
+      "rank": 11,
+      "name": "SGB Solutions",
+      "url": "https://sgblp.com",
+      "intel_score": 55,
+      "products_found": 8,
+      "categories": 8,
+      "location": "Midland, TX",
+      "threat_level": "MEDIUM",
+      "key_differentiators": ["Midland TX based (direct competitor)", "Proprietary non-triazine H2S scavenger", "Custom blends all products locally", "Lab services"],
+      "file": "scraped_intel_sgb_solutions.json"
+    },
+    {
+      "rank": 12,
+      "name": "Corrosion Ltd",
+      "url": "https://www.corrosionltd.com",
+      "intel_score": 45,
+      "products_found": 9,
+      "categories": 2,
+      "location": "Permian Basin (432 area code)",
+      "threat_level": "LOW (niche)",
+      "key_differentiators": ["Niche drill pipe corrosion focus", "9 specific named products", "Has SDS section", "Local Permian Basin operator"],
+      "file": "scraped_intel_corrosion_ltd.json"
+    },
+    {
+      "rank": 13,
+      "name": "Maxflow Chemicals of Texas",
+      "url": "https://www.maxflowchemicals.com",
+      "intel_score": 30,
+      "products_found": 4,
+      "categories": 4,
+      "location": "Texas",
+      "threat_level": "LOW",
+      "key_differentiators": ["SWD focus", "Customized treatments", "Small operator"],
+      "file": "scraped_intel_maxflow.json"
+    }
+  ],
+  "competitors_no_data": [
+    {
+      "name": "Aquarius Chemical",
+      "url": "https://aquariuschemical.com",
+      "reason": "Site in pre-launch state — 'Launching Soon' placeholder. No products.",
+      "file": "scraped_intel_aquarius.json"
+    },
+    {
+      "name": "Revive Environmental Solutions",
+      "url": "https://revive-es.com",
+      "reason": "Wix-based site — JS-rendered only. Static fetch returns boilerplate code only. Needs browser rendering.",
+      "file": "scraped_intel_revive_es.json"
+    }
+  ],
+  "chemical_category_frequency": {
+    "corrosion_inhibitor": 12,
+    "biocide": 11,
+    "h2s_scavenger": 10,
+    "scale_inhibitor": 10,
+    "demulsifier": 9,
+    "paraffin_control": 9,
+    "defoamer": 8,
+    "surfactant": 8,
+    "water_treatment": 8,
+    "foamer": 7,
+    "acid": 5,
+    "friction_reducer": 5,
+    "flow_assurance": 5,
+    "clay_stabilizer": 4,
+    "iron_control": 4,
+    "pipeline": 4,
+    "packer_fluid": 3,
+    "asphaltene_control": 3,
+    "oxygen_scavenger": 3,
+    "co2_scavenger": 3,
+    "dispersant": 3,
+    "hydrate_control": 2,
+    "antifoulant": 2,
+    "breaker": 2,
+    "viscosifier": 1,
+    "crosslinker": 1,
+    "gelling_agent": 1,
+    "gel_stabilizer": 1,
+    "rheology": 1,
+    "salt_control": 1,
+    "steam_flood": 1,
+    "remediation": 1,
+    "acid_inhibitor": 1,
+    "non_emulsifier": 1,
+    "solid_chemicals": 1,
+    "buffer": 1,
+    "solvent": 1,
+    "co_scavenger": 1
+  },
+  "key_insights": {
+    "top_product_categories": "Corrosion inhibitors (12/13 competitors), biocides (11/13), H2S scavengers (10/13), scale inhibitors (10/13), demulsifiers (9/13)",
+    "permian_basin_direct_competitors": ["Jacam Catalyst (Gardendale TX)", "Solnexus Chemical (Midland TX)", "SGB Solutions (Midland TX)", "Corrosion Ltd (Permian Basin)", "Maxflow Chemicals (TX)"],
+    "no_pricing_found": "ZERO competitors publish pricing publicly. Industry standard is private/negotiated pricing.",
+    "no_msds_public": "No competitor has publicly downloadable MSDS/SDS sheets. Some reference SDS sections but require login/request.",
+    "proprietary_technologies": [
+      "Jacam: System Saver Pellets, Smart Balls (solid chemistry)",
+      "Imperative: OPTIS IOR Technology (84% well performance boost)",
+      "ChampionX: XSPOC, LOOKOUT, SOOFIE, AURA OGI (digital/emissions)",
+      "Solugen: Bioforge biomanufacturing platform (green chemistry)",
+      "SGB: Proprietary non-triazine H2S scavenger",
+      "Solnexus: SNX-FLB surfactant, HCL7000 WL modified acid",
+      "EnergyFlo: Dry Nano Surfactants"
+    ],
+    "market_gaps": [
+      "No competitor offers real-time chemical monitoring/optimization software (except ChampionX at enterprise level)",
+      "No competitor publishes pricing — opportunity for transparent pricing model",
+      "Few competitors have cloud-based analytics — Solnexus mentions it but details unclear",
+      "No competitor offers AI-driven chemical selection/optimization",
+      "Limited environmental/green chemistry options outside Solugen"
+    ],
+    "biggest_threats": [
+      "Jacam Catalyst — broadest product line, Permian Basin lab, solid chemistry innovation",
+      "ChampionX/SLB — massive scale, digital integration, full ecosystem",
+      "Imperative Chemical — OPTIS IOR technology with proven results",
+      "Solnexus — Midland based, strong biocide portfolio, toll blending"
+    ]
+  }
+}

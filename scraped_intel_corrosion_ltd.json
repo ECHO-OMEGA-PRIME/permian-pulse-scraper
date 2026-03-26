@@ -1,0 +1,28 @@
+{
+  "competitor": "Corrosion Ltd",
+  "url": "https://www.corrosionltd.com",
+  "scraped_at": "2026-03-17",
+  "phone": "800-669-8023 / 432-561-8504",
+  "products": [
+    {"name": "C202", "category": "corrosion_inhibitor", "description": "Drill pipe corrosion control chemical"},
+    {"name": "CL2213", "category": "corrosion_inhibitor", "description": "Drill pipe corrosion control chemical"},
+    {"name": "CL9390", "category": "corrosion_inhibitor", "description": "Drill pipe corrosion control chemical"},
+    {"name": "CLTD120", "category": "corrosion_inhibitor", "description": "Drill pipe corrosion control chemical"},
+    {"name": "CLTD50", "category": "corrosion_inhibitor", "description": "Drill pipe corrosion control chemical"},
+    {"name": "CLTD593", "category": "corrosion_inhibitor", "description": "Drill pipe corrosion control chemical"},
+    {"name": "S895", "category": "corrosion_inhibitor", "description": "Drill pipe corrosion control chemical"},
+    {"name": "B-458", "category": "biocide", "description": "Drilling fluid biocide"},
+    {"name": "Bellacide 300", "category": "biocide", "description": "Drilling fluid biocide"}
+  ],
+  "chemical_categories": [
+    "corrosion_inhibitor",
+    "biocide"
+  ],
+  "msds_links": ["Safety Data Sheets section exists on site but no direct download links found"],
+  "pricing": [],
+  "technologies": [
+    "Drill pipe corrosion control - protecting drill string from corrosive elements in drilling fluid to minimize drill pipe failures"
+  ],
+  "notes": "Niche player focused exclusively on drill pipe corrosion control. Small product portfolio (9 products). Based in Permian Basin area (432 area code). Has SDS section but sheets not publicly downloadable.",
+  "raw_content": "Corrosion Ltd - Products: C202, CL2213, CL9390, CLTD120, CLTD50, CLTD593, S895, B-458, Bellacide 300. Safety Data Sheets section exists. Focus: drill pipe corrosion control, protecting drill string from corrosive elements in drilling fluid. Phone: 800-669-8023 / 432-561-8504."
+}

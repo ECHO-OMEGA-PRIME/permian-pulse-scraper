@@ -1,0 +1,77 @@
+{
+  "competitor": "Infinity Energy Solutions",
+  "url": "https://www.infinitysol.net",
+  "scraped_at": "2026-03-17",
+  "location": "Louisiana",
+  "products": [
+    {"name": "Corrosion Inhibitors", "category": "corrosion_inhibitor", "description": "Protection against corrosive substances"},
+    {"name": "Paraffin Inhibitors", "category": "paraffin_control", "description": "Paraffin buildup prevention"},
+    {"name": "Dispersants", "category": "dispersant", "description": "Material dispersion chemicals"},
+    {"name": "Water Clarifiers", "category": "water_treatment", "description": "Water clarification chemicals"},
+    {"name": "Emulsion Breakers", "category": "demulsifier", "description": "Emulsion breaking chemicals"},
+    {"name": "Pipeline Cleaners", "category": "pipeline", "description": "Pipeline maintenance and cleaning solutions"},
+    {"name": "Foamers", "category": "foamer", "description": "Foam-generating chemicals"},
+    {"name": "Defoamers", "category": "defoamer", "description": "Foam control chemicals"},
+    {"name": "Clay Stabilizers", "category": "clay_stabilizer", "description": "Clay formation stabilization"},
+    {"name": "Biocides", "category": "biocide", "description": "Biological growth control"},
+    {"name": "H2S Scavengers", "category": "h2s_scavenger", "description": "Hydrogen sulfide removal"},
+    {"name": "Friction Reducers", "category": "friction_reducer", "description": "Hydraulic fracturing friction reducers"},
+    {"name": "Rheology Modifiers", "category": "rheology", "description": "Fluid viscosity modification chemicals"},
+    {"name": "Surfactants", "category": "surfactant", "description": "Surface active agents"}
+  ],
+  "chemical_categories": [
+    "corrosion_inhibitor",
+    "paraffin_control",
+    "dispersant",
+    "water_treatment",
+    "demulsifier",
+    "pipeline",
+    "foamer",
+    "defoamer",
+    "clay_stabilizer",
+    "biocide",
+    "h2s_scavenger",
+    "friction_reducer",
+    "rheology",
+    "surfactant"
+  ],
+  "lab_services": {
+    "tests": [
+      "Coldfinger Analysis (dry and wet oils)",
+      "Water Analysis (Ba, Ca, Cl, Fe, Mg, Mn, scaling tendencies)",
+      "Oil Analysis (API Gravity, Asphaltene Content, Cloud Point, Pour Point, Total Wax)",
+      "Solids Analysis (paraffin solvency, qualitative/quantitative ID)",
+      "Oil and Grease Analysis (fats, oils, waxes in water)",
+      "Liquid FTIR (unknown liquids, contamination, additives)",
+      "Millipore Analysis (NACE Standard 0173 Method)",
+      "Coupon Analysis (MPY corrosion, scale imagery, documentation)"
+    ],
+    "turnaround": "5-7 business days standard",
+    "rush_options": ["24-hour (50% markup)", "Same-day (100% markup)"],
+    "additional": ["Consulting", "Special projects", "Lab supplies", "Titration kits", "Reagents", "Product samples"]
+  },
+  "services": [
+    "Chemical toll blending",
+    "Product development",
+    "Distribution",
+    "Oilfield storage",
+    "Water treatment",
+    "Self-sourcing guar",
+    "Hydraulic fracturing chemistry"
+  ],
+  "msds_links": [],
+  "pricing": [
+    {"item": "Rush lab work (24hr)", "price": "50% markup on standard pricing"},
+    {"item": "Rush lab work (same-day)", "price": "100% markup on standard pricing"},
+    {"item": "All estimates", "price": "free and flexible according to materials and scheduling"}
+  ],
+  "technologies": [
+    "Self-sourcing guar capability",
+    "Onsite chemical blending",
+    "FTIR spectroscopy",
+    "NACE Standard 0173 Millipore testing",
+    "Coldfinger wax analysis"
+  ],
+  "notes": "Louisiana-based with strong lab services. One of the few competitors to publish any pricing info (rush lab markup rates). Detailed lab test menu with specific analytical methods (FTIR, NACE 0173, Coldfinger). Self-sources guar. Toll blending services. Good for pricing intelligence on lab services.",
+  "raw_content": "Infinity Energy Solutions - Louisiana. Products: Corrosion Inhibitors, Paraffin Inhibitors, Dispersants, Water Clarifiers, Emulsion Breakers, Pipeline Cleaners, Foamers, Defoamers, Clay Stabilizers, Biocides, H2S Scavengers, Friction Reducers, Rheology Modifiers, Surfactants. Lab: Coldfinger (dry/wet), Water (Ba/Ca/Cl/Fe/Mg/Mn/scaling), Oil (API/Asphaltene/Cloud/Pour/Wax), Solids, Oil&Grease, FTIR, Millipore (NACE 0173), Coupons (MPY/scale/imagery). Turnaround: 5-7 days, rush 24hr (+50%), same-day (+100%). Services: Toll blending, product development, distribution, storage, water treatment. Self-sources guar."
+}

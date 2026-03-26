@@ -1,0 +1,52 @@
+{
+  "competitor": "Solugen",
+  "url": "https://solugen.com",
+  "scraped_at": "2026-03-17",
+  "location": "Houston, TX (14549 Minetta St, 77035)",
+  "products": [
+    {"name": "Oil & Gas Chemicals", "category": "oilfield_chemicals", "description": "Bio-manufactured chemicals for oil and gas applications"},
+    {"name": "Water Treatment Chemicals", "category": "water_treatment", "description": "Bio-based water treatment solutions"},
+    {"name": "Cleaning Chemicals", "category": "industrial_cleaning", "description": "Bio-manufactured cleaning solutions"},
+    {"name": "Agriculture Chemicals", "category": "agriculture", "description": "Sustainable agricultural chemicals"},
+    {"name": "Concrete Additives", "category": "construction", "description": "Bio-based concrete additives"},
+    {"name": "Renewable Fuels Chemicals", "category": "fuels", "description": "Chemicals for renewable fuel production"},
+    {"name": "Aerospace & Defense Chemicals", "category": "aerospace", "description": "Specialty chemicals for aerospace/defense"},
+    {"name": "Personal Care Ingredients", "category": "personal_care", "description": "Bio-manufactured personal care ingredients"}
+  ],
+  "chemical_categories": [
+    "oilfield_chemicals",
+    "water_treatment",
+    "industrial_cleaning",
+    "agriculture",
+    "construction",
+    "fuels",
+    "aerospace",
+    "personal_care"
+  ],
+  "msds_links": [],
+  "pricing": [],
+  "technologies": [
+    {
+      "name": "Bioforge Platform",
+      "description": "Biomanufacturing platform using engineered enzymes, metal catalysis, and modularity. Converts dextrose, water, and compressed air via enzyme oxidation reactor at room temperature.",
+      "details": "Integrated yields over 95%, near unity in some cases. Little to no harmful emissions, no hazardous waste."
+    },
+    {
+      "name": "Bioflex Fermentation Plant",
+      "description": "Flexible facility producing intracellular and extracellular enzymes in bacteria, yeast, and filamentous fungi"
+    },
+    {
+      "name": "Engineered Enzymes",
+      "description": "Computational design, rational design, and AI-optimized enzymes for efficient molecular conversion"
+    },
+    {
+      "name": "Metal Catalysts",
+      "description": "Proprietary catalysts synthesized and tested for process efficiency enhancement"
+    }
+  ],
+  "r_and_d": {
+    "capabilities": ["Analytical chemistry (UPLC, GC, ICP, TOF-MS, NMR)", "Chemical synthesis", "Strain engineering", "AI/ML process optimization", "Quality control", "Pilot-scale testing"]
+  },
+  "notes": "Biotech company focused on sustainable biomanufacturing. No specific product names or pricing listed. Differentiated by green chemistry approach. Interesting technology competitor for environmentally-conscious operators.",
+  "raw_content": "Solugen - Bioforge biomanufacturing platform. Markets: Oil & Gas, Renewable Fuels, Aerospace & Defense, Water Treatment, Cleaning, Agriculture, Concrete, Personal Care. Core technology: Metal Catalysis, Modularity, Engineered Enzymes. Bioflex Fermentation Plant. Enzyme oxidation reactor converts dextrose/water/air. Yields >95%. R&D: UPLC, GC, ICP, TOF-MS, NMR, chemical synthesis, strain engineering, AI/ML. Houston, TX."
+}

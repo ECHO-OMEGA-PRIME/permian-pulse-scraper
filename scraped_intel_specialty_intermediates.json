@@ -1,0 +1,41 @@
+{
+  "competitor": "Specialty Intermediates",
+  "url": "https://specialtyintermediates.com",
+  "scraped_at": "2026-03-17",
+  "location": "Oklahoma City, OK (400 N. Morgan Road, 73127)",
+  "phone": "405-670-2433",
+  "founded": "September 1993",
+  "products": [
+    {"name": "Corrosion Inhibitor Intermediates", "category": "corrosion_inhibitor", "description": "One of the largest chemical intermediate portfolios in the industry for corrosion control"},
+    {"name": "Scale Inhibition Intermediates", "category": "scale_inhibitor", "description": "Intermediate chemicals for scale control formulations"},
+    {"name": "Paraffin Control Intermediates", "category": "paraffin_control", "description": "Intermediates for paraffin inhibitor/solvent/dispersant formulations"},
+    {"name": "Emulsion Control Intermediates", "category": "demulsifier", "description": "Intermediates for demulsifier and emulsion breaker formulations"},
+    {"name": "Foaming Agent Intermediates", "category": "foamer", "description": "Intermediates for foam-generating chemical formulations"},
+    {"name": "Surfactant Intermediates", "category": "surfactant", "description": "Intermediates for surfactant formulations"},
+    {"name": "Scavenger Intermediates", "category": "h2s_scavenger", "description": "Intermediates for H2S and other scavenger formulations"},
+    {"name": "Demulsifier Intermediates", "category": "demulsifier", "description": "Intermediates for demulsifier formulations"},
+    {"name": "Blended Concentrates (All Product Lines)", "category": "concentrate", "description": "Ready-to-use blended concentrates in nearly all product lines, custom formulations available"},
+    {"name": "Finished Products (Private Label)", "category": "finished_product", "description": "Highest quality finished products manufactured to specifications with private label packaging"}
+  ],
+  "chemical_categories": [
+    "corrosion_inhibitor",
+    "scale_inhibitor",
+    "paraffin_control",
+    "demulsifier",
+    "foamer",
+    "surfactant",
+    "h2s_scavenger",
+    "concentrate",
+    "finished_product"
+  ],
+  "product_tiers": [
+    {"tier": "Intermediates", "description": "Raw chemical intermediates — one of the largest portfolios in the industry"},
+    {"tier": "Blended Concentrates", "description": "Custom-blended concentrates ready for field dilution"},
+    {"tier": "Finished Products", "description": "Fully formulated products with private label packaging available"}
+  ],
+  "msds_links": [],
+  "pricing": [],
+  "technologies": [],
+  "notes": "Unique positioning as intermediate/raw material supplier to other chemical companies. Claims one of the largest chemical intermediate portfolios in the industry. Three-tier model: intermediates, blended concentrates, and finished products with private labeling. Oklahoma City based. Founded 1993 — long track record. Key upstream supplier that competes AT the formulation level.",
+  "raw_content": "Specialty Intermediates - Oklahoma City OK (400 N. Morgan Road, 73127). Founded 1993. Products: Intermediates (largest portfolio in industry), Blended Concentrates, Finished Products (private label). Chemistries: Corrosion/Scale Inhibition, Paraffin Control, Emulsion Control, Foaming Agents/Surfactants, Scavengers, Demulsifiers, Scale Control. Product Search, Classification browsing. 405-670-2433."
+}

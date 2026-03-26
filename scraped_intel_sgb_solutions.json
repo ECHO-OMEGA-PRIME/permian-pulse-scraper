@@ -1,0 +1,40 @@
+{
+  "competitor": "SGB Solutions",
+  "url": "https://sgblp.com",
+  "scraped_at": "2026-03-17",
+  "location": "Midland, TX (5918 S County Rd 1273, 79706)",
+  "phone": "(432) 563-1765",
+  "products": [
+    {"name": "Asset Integrity Chemicals", "category": "corrosion_inhibitor", "description": "Protective solutions for equipment and infrastructure maintenance"},
+    {"name": "Phase Separation Chemicals", "category": "demulsifier", "description": "Products addressing fluid separation challenges"},
+    {"name": "Flow Assurance Chemicals", "category": "flow_assurance", "description": "Solutions for fluid transport and pipeline management"},
+    {"name": "Specialized Applications", "category": "specialty", "description": "Custom chemistries for unique operational needs"},
+    {"name": "Proprietary Non-Triazine H2S Scavenger", "category": "h2s_scavenger", "description": "In-house manufactured non-triazine H2S scavenger - proprietary formulation"},
+    {"name": "Completion Chemicals", "category": "completion", "description": "Well completion chemical programs"},
+    {"name": "Production Chemicals", "category": "production_chemicals", "description": "Ongoing production chemical programs"},
+    {"name": "Midstream Chemicals", "category": "midstream", "description": "Midstream processing chemicals"}
+  ],
+  "chemical_categories": [
+    "corrosion_inhibitor",
+    "demulsifier",
+    "flow_assurance",
+    "h2s_scavenger",
+    "completion",
+    "production_chemicals",
+    "midstream",
+    "specialty"
+  ],
+  "services": [
+    "Lab Services",
+    "Account Management",
+    "Custom blending (all products blended in Midland, TX)"
+  ],
+  "msds_links": [],
+  "pricing": [],
+  "technologies": [
+    "Proprietary non-triazine H2S scavenger (manufactured in-house)",
+    "Custom blending in Midland TX"
+  ],
+  "notes": "Direct Midland TX competitor. Custom blends all products locally. Proprietary non-triazine H2S scavenger is their differentiator. Covers completing, producing, transporting, and injecting lifecycle. Smaller company but strong local presence. Lab services available.",
+  "raw_content": "SGB Solutions - Midland TX. Product Lines: Completion, Production, Midstream. Categories: Asset Integrity, Phase Separation, Flow Assurance, Specialized Applications, Proprietary Non-Triazine H2S Scavenger (in-house). Lab Services, Account Management. Custom blends all products in Midland TX. 5918 S County Rd 1273, Midland TX 79706. (432) 563-1765."
+}
