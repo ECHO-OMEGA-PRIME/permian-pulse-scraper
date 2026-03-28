@@ -29,3 +29,7 @@ service = "echo-knowledge-forge"
 
 [vars]
 WORKER_VERSION = "2.0.0"
+
+[[analytics_engine_datasets]]
+binding = "ANALYTICS"
+dataset = "echo_metrics"
