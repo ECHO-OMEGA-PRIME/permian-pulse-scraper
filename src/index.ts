@@ -1042,6 +1042,11 @@ async function handleRequest(request: Request, env: Env): Promise<Response> {
     return new Response(null, { headers: { 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET,POST,OPTIONS', 'Access-Control-Allow-Headers': '*' } });
   }
 
+  // Root
+  if (path === '/') {
+    return json({ service: 'permian-pulse-scraper', status: 'operational' });
+  }
+
   // Health
   if (path === '/health') {
     const compCount = await env.DB.prepare('SELECT COUNT(*) as c FROM competitors').first<{ c: number }>();
